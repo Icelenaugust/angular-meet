@@ -1,5 +1,7 @@
 # AngularMeet
 
+![angular-meet](https://user-images.githubusercontent.com/66818697/120839577-b3148000-c59b-11eb-9ccc-dd49281b2210.gif)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
 ## Development server
@@ -25,4 +27,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# angular-meet
+![angular-meet](https://user-images.githubusercontent.com/66818697/120839593-b7409d80-c59b-11eb-8e8d-597d2213cd09.gif)
+
